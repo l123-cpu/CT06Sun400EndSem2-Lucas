@@ -8,7 +8,7 @@ function setup(){
 }
 
 function draw(){
-    background(lightblue);
+    background('lightblue');
     fill('green');
     circle(posX,height/2,50);
     posX+=xSpeed;
