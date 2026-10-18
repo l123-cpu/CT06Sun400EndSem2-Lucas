@@ -1,1 +1,1 @@
-let pokemons=["Pikachu", ]
+let pokemons=["Pikachu", "Raichu","",""]
