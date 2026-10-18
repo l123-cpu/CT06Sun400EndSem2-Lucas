@@ -8,7 +8,7 @@ function setup(){
     background(220)
     textAlign(CENTER,CENTER)
     textSize=20
-    
+    for(let i=0; i<name.length;i++){text}
 }
 
 
