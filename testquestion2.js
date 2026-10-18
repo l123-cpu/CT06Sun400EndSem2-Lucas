@@ -6,7 +6,7 @@ function setup(){
     fill('pink')
     yPos=100
     background(220)
-    
+    textAlign(CustomElementRegistry,)
 }
 
 
