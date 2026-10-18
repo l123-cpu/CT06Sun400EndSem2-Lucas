@@ -7,7 +7,8 @@ function setup(){
     yPos=100
     background(220)
     textAlign(CENTER,CENTER)
-    textSixe=20
+    textSize=20
+    
 }
 
 
