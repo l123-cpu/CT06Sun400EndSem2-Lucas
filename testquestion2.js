@@ -5,8 +5,6 @@ function setup(){
     createCanvas(200,300);
     fill('pink')
     yPos=100
+    
 }
-function draw(){
-    background(220)
-    fill
-}
+
