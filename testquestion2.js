@@ -8,7 +8,7 @@ function setup(){
     background(220)
     textAlign(CENTER,CENTER)
     textSize=20
-    for(let i=0; i.length;i++){text(pokemons[i])}
+    for(let i=0; i<pokemons.length;i++){text(pokemons[i])}
 }
 
 
