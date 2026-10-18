@@ -1,1 +1,2 @@
-let pokemons=["Pikachu", "Raichu","BU,"Mewtwo"]
+let pokemons=["Pikachu", "Raichu","Bulbasaur","Mewtwo"]
+let yPOs;
