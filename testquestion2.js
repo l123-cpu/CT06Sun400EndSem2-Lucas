@@ -6,7 +6,7 @@ function setup(){
     background(220)
     fill('pink')
     yPos=100
-    textAlign(CENTER,CENTER)
+    textalign(CENTER,CENTER)
     textSize=20
     for(let i=0; i<pokemons.length;i++){text(pokemons[i],width,yPos)};
     yPos+=40
