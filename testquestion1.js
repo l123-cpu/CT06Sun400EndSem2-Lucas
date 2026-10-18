@@ -8,7 +8,6 @@ function setup(){
 }
 
 function draw(){
-    circle(posX,200);
     background(lightblue);
     fill('green');
     circle(posX,height/2,50);
