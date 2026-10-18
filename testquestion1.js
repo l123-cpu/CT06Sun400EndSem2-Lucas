@@ -13,5 +13,5 @@ function draw(){
     fill(green);
     circle(posX,height/2,50);
     posX+=xSpeed
-    if (posX>=width-25,posX<=25),{xSpeed=-xSpeed}
+    if (posX>=width-25,posX<=25){xSpeed=-xSpeed}
 }
