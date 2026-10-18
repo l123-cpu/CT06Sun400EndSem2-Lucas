@@ -10,7 +10,7 @@ function setup(){
 function draw(){
     circle(posX);
     background(lightblue);
-    fill(green);
+    fill('green');
     circle(posX,height/2,50);
     posX+=xSpeed
     if (posX>=width-25||posX<=25){xSpeed=-xSpeed}
