@@ -6,7 +6,8 @@ function setup(){
     fill('pink')
     yPos=100
     background(220)
-    textAlign(CENTER)
+    textAlign(CENTER,CENTER)
+    textSixe=20
 }
 
 
