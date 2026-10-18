@@ -6,3 +6,6 @@ function setup(){
     fill('pink')
     yPos=100
 }
+function draw(){
+    
+}
